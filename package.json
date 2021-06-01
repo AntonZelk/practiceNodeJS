@@ -1,0 +1,27 @@
+{
+  "name": "practicenodejs",
+  "version": "1.0.0",
+  "description": "nodeJS tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonZelk/practiceNodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Dudarchyk Anton <zelkdar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonZelk/practiceNodeJS/issues"
+  },
+  "homepage": "https://github.com/AntonZelk/practiceNodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
